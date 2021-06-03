@@ -16,6 +16,21 @@ pip install discord-py-slash-command
 
 ---
 
+## TEST
+> Copy-paste the codes from `bot.py`
+
+> Run the code
+
+> Type `/test` in your server (where your bot is already added)
+
+> Your code should work :)
+
+```txt
+Note : Your bot must have "use slash commands" permission in the server in order to use slash commands.
+```
+
+---
+
 ## CONNECT WITH ME
 > **DISCORD:** `INFINIX#7276`
 
